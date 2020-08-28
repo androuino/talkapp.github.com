@@ -1,0 +1,11 @@
+img#talkLogo {
+    height: auto;
+    max-width: 50%;
+    width: auto\9; /* IE8 */
+}
+
+h1#talkTitle {
+    color: rgb(255, 0, 0);
+    font-size: 80px;
+    color: #03A9F4;
+}
